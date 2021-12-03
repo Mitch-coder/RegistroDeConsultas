@@ -1,0 +1,10 @@
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\bin\Debug\DataCap.dll.config
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\bin\Debug\DataCap.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\bin\Debug\DataCap.pdb
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\bin\Debug\EntityFramework.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\bin\Debug\EntityFramework.xml
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\obj\Debug\DataCap.csproj.AssemblyReference.cache
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\obj\Debug\DataCap.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\obj\Debug\DataCap.csproj.CopyComplete
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\obj\Debug\DataCap.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\DataCap\obj\Debug\DataCap.pdb

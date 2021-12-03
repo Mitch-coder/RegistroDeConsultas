@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="queriesModelStoreContainer" CdmEntityContainer="queriesEntities">
+    <EntitySetMapping Name="Queries">
+      <EntityTypeMapping TypeName="queriesModel.Querie">
+        <MappingFragment StoreEntitySet="Querie">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="numberWeek" ColumnName="numberWeek" />
+          <ScalarProperty Name="numberStudent" ColumnName="numberStudent" />
+          <ScalarProperty Name="topic" ColumnName="topic" />
+          <ScalarProperty Name="observations" ColumnName="observations" />
+          <ScalarProperty Name="idStudent" ColumnName="idStudent" />
+          <ScalarProperty Name="signStudent" ColumnName="signStudent" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

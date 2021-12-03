@@ -1,0 +1,12 @@
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\BussinessCap.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\BussinessCap.pdb
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\DataCap.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\EntityFramework.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\DataCap.pdb
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\DataCap.dll.config
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\bin\Debug\EntityFramework.xml
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\obj\Debug\BussinessCap.csproj.AssemblyReference.cache
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\obj\Debug\BussinessCap.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\obj\Debug\BussinessCap.csproj.CopyComplete
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\obj\Debug\BussinessCap.dll
+C:\Users\Michelle Calderon\source\Labs\RegistroDeConsultas\BussinessCap\obj\Debug\BussinessCap.pdb

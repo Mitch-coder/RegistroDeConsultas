@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="queriesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Querie">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="numberWeek" Type="Int32" Nullable="false" />
+    <Property Name="numberStudent" Type="Int32" Nullable="false" />
+    <Property Name="topic" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="observations" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="idStudent" Type="String" MaxLength="12" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="signStudent" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Date" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="queriesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Queries" EntityType="Self.Querie" />
+  </EntityContainer>
+</Schema>
